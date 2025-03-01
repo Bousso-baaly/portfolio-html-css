@@ -115,7 +115,7 @@ body{
     border-radius: 50%;
 }
 .section2{
-    height: 190vh;
+    padding-bottom: 10px;
 }
 .section2 .place-gauche{
     margin-top: 200px;
@@ -229,6 +229,7 @@ color: orange
     background-image: url("imgs/img10.jpg");
     background-size: cover;
 }
+
 .section3 .place-gauche{
     margin-top: 100px;
     margin-left: 250px;
@@ -240,7 +241,8 @@ color: orange
     color: rgb(99, 98, 98);
 }
 .section3{
-    height: 60vh;
+   padding-top: 10px;
+   padding-bottom: 10px;
     display: flex;
     flex-direction: column;
 }
@@ -315,7 +317,8 @@ color: orange
     transform: rotate(calc(((var(--i) - 50) * 0.01turn)));
 }
 .section4{
-    height: 98vh;
+    padding-top: 10px;
+    padding-bottom: 10px;
     background-color: #28023D;
 }
 .section4 .place-gauche{
@@ -342,8 +345,9 @@ color: orange
     color: rgb(217, 104, 5);
 }
 .section5 {
-    height: 95vh;
-   margin-top: 5%;
+     padding-top: 10px;
+   padding-bottom: 10px;
+   
    justify-content: center;
 }
  .section5 .place-gauche{
@@ -427,13 +431,16 @@ color: orange
     border-radius: 50%;
     background-color: orange;
   }
+  /* .course{
+    margin-top: -30px;
+  } */
 .academy{
     font-size: 16px;
     color: #999999;
     font-weight: 700;
 }
 .edu-inline{
-    margin-top: 1%;
+    margin-top: 0;
     width: 100%;
     height: 200px;
     margin-left: 5%;
@@ -459,15 +466,17 @@ color: orange
 }
 
 .course, .valide{
-    margin-top: 6%;
+    margin-top: 4%;
 }
 .course{
+    margin-top: 50px;
     margin-bottom:15px ;
 }
 footer{
     display: flex;
     flex-direction: column;
-    height: 25vh;
+    padding-top: 10px;
+    padding-bottom: 1;
     background-image: url("https://preview.colorlib.com/theme/cvportfolio/images/slider-2-1920x600.jpg");
     opacity: 5;
 }
@@ -496,7 +505,9 @@ span{
     font-weight: 600;
 }
 .partie-mauve{
-    height: 10vh;
+    margin-top: 50px;
+    padding-top: 10px;
+   padding-bottom: 10px;
     background-color: #28023D;
    text-align: center;
 }
