@@ -31,6 +31,9 @@ footer{
     position: relative;
     top: -250px;
 }
+.section2{
+    margin-top: 50vh;
+}
 .section2 .place-gauche{
     margin-left: 10px;
 }
@@ -107,9 +110,7 @@ footer{
 }
 .section4{
     padding-top: 5px;
-    padding-bottom: 10px;
-    
-    
+    padding-bottom: 10px;  
 }
 .section4 .place-gauche{
     margin-left: 10px;
@@ -131,7 +132,7 @@ footer{
     display: none;
 }
 footer{
-    margin-top: 60vh;
+    margin-top: 112vh;
 }
 
 }
