@@ -20,7 +20,7 @@ footer{
 }
 .section1 .button-orange button{
     position: relative;
-   right: 35px;
+    right: 35px;
 }
 .glob .carre-blanc{
     width: 90%;
@@ -32,7 +32,7 @@ footer{
     top: -250px;
 }
 .section2{
-    margin-top: 35vh;
+    margin-top: 45vh;
 }
 .section2 .place-gauche{
     margin-left: 10px;
@@ -132,7 +132,7 @@ footer{
     display: none;
 }
 footer{
-    margin-top: 90vh;
+    margin-top: 112vh;
 }
 
 }
