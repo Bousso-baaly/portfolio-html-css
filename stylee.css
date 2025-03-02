@@ -32,7 +32,7 @@ footer{
     top: -250px;
 }
 .section2{
-    margin-top: 50vh;
+    margin-top: 35vh;
 }
 .section2 .place-gauche{
     margin-left: 10px;
@@ -122,7 +122,7 @@ footer{
 
 .section5 .place-gauche{
     margin-left: 5px;
-    margin-top: 0px;
+    margin-top: 50px;
 }
 .section5 .text-plus-bar{
     margin-left: 0px; 
@@ -132,7 +132,7 @@ footer{
     display: none;
 }
 footer{
-    margin-top: 112vh;
+    margin-top: 85vh;
 }
 
 }

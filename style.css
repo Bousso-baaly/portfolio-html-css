@@ -231,7 +231,7 @@ color: orange
 }
 
 .section3 .place-gauche{
-    margin-top: 100px;
+    margin-top: 50px;
     margin-left: 250px;
 }
 .section3 .place-gauche h1{
@@ -322,7 +322,7 @@ color: orange
     background-color: #28023D;
 }
 .section4 .place-gauche{
-    padding-top: 120px;
+    padding-top: 50px;
     margin-left: 250px; 
 }
 .section4 .place-droite{
@@ -347,11 +347,10 @@ color: orange
 .section5 {
      padding-top: 10px;
    padding-bottom: 10px;
-   
    justify-content: center;
 }
  .section5 .place-gauche{
-    margin-top: 100px;
+    margin-top: 50px;
     margin-left: 250px;
 } 
 
